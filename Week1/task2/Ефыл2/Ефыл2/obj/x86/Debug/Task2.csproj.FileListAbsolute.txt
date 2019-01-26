@@ -1,0 +1,5 @@
+E:\c#\PP2\Week1\task2\Ефыл2\Ефыл2\obj\x86\Debug\Task2.csprojResolveAssemblyReference.cache
+E:\c#\PP2\Week1\task2\Ефыл2\Ефыл2\bin\Debug\Ефыл2.exe
+E:\c#\PP2\Week1\task2\Ефыл2\Ефыл2\bin\Debug\Ефыл2.pdb
+E:\c#\PP2\Week1\task2\Ефыл2\Ефыл2\obj\x86\Debug\Ефыл2.exe
+E:\c#\PP2\Week1\task2\Ефыл2\Ефыл2\obj\x86\Debug\Ефыл2.pdb
