@@ -1,0 +1,4 @@
+E:\c#\PP2\Week3\Week3\bin\Debug\Week3.exe
+E:\c#\PP2\Week3\Week3\bin\Debug\Week3.pdb
+E:\c#\PP2\Week3\Week3\obj\x86\Debug\Week3.exe
+E:\c#\PP2\Week3\Week3\obj\x86\Debug\Week3.pdb
